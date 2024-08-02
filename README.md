@@ -28,6 +28,7 @@ A bool (Boolean) type has only 2 possible values: True or False.
 To assign a bool value to a variable,
 #### Ex) variable_true = True , variable_false = False
 In the above example, two variables named variable_true and variable_false are initialized, with the values True and False respectively.
+
 ![image](https://github.com/user-attachments/assets/7445e61d-6430-4a97-82a4-7ed275b9110e)
 
 
