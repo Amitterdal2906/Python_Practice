@@ -64,9 +64,7 @@ This operation is valid for all arithmetic operations:
 ![image](https://github.com/user-attachments/assets/dc9fc9f8-6d95-429b-a41e-4238b75e455b)
 
 ### C) Comparison Operators
-Comparison operators is used to compare between two operands.
-
-Sometimes we need to check whether an operand is bigger/smaller/... than another operand. The following table shows possible operators for comparison:
+Comparison operators are used to compare between two operands. Sometimes we need to check whether an operand is bigger/smaller/... than another operand. The following table shows possible operators for comparison:
 
 ![image](https://github.com/user-attachments/assets/756fa102-bb3e-4cb7-806d-d242b93af8a8)
 
@@ -76,3 +74,42 @@ The comparison operator returns True if the comparison is correct or False other
 
 var3 will hold True because var1 and var2 are not equal
 
+### D) Logical Operators Part 1
+Logical operators are used to check combinations of comparisons that return True or False.
+For example, the following statement contains two comparisons: 
+Is 5 greater than 3 and lesser than 6?
+
+![image](https://github.com/user-attachments/assets/20a11ac2-8a54-433c-8704-5698377c5cc8)
+
+Let's see some examples,
+
+5 is bigger than 3 and 1 equals 1,
+
+![image](https://github.com/user-attachments/assets/f2f0e7a6-2927-4c21-aab0-9a36474c6356)
+
+Explanation: All of the operands are True, so b1 will hold True (and operation is True if both operands are True).
+
+5 is not equals 4 or five equals 2,
+
+![image](https://github.com/user-attachments/assets/8d909b72-e5ac-4c96-8a42-0509b0f87876)
+
+Explanation: The first operand (5 != 4) is True so b2 is also True (or operation is True if either one of the operands is True)
+
+1 is not equals 1 or false,
+
+![image](https://github.com/user-attachments/assets/9883570d-d08f-48c8-b6d1-61435792599d)
+
+Explanation: All of the operands are False, so b3 will hold False (or operation).
+
+
+not (3 bigger than 4),
+
+![image](https://github.com/user-attachments/assets/2654b4e6-2693-480c-854b-8e67eebc4171)
+
+Explanation: The operand is False, so b4 will hold True (not operation).
+
+not (5 bigger than 10 or 5 bigger than 1),
+
+![image](https://github.com/user-attachments/assets/178d8920-19f7-4ae8-b82f-d8cd63033fd9)
+
+Explanation: 5 > 10 or 5 > 1 is True (one of the operands is True), so in total b5 is False (not operation).
