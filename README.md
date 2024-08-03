@@ -31,5 +31,20 @@ In the above example, two variables named variable_true and variable_false are i
 
 ![image](https://github.com/user-attachments/assets/7445e61d-6430-4a97-82a4-7ed275b9110e)
 
+# 3) Operators
+### A) Arithmetic operators
+Operators used to perform operations on values. First we will discuss the most basic arithmetic operators, they may be familiar from math classes.
+
+![image](https://github.com/user-attachments/assets/3b42bd7e-a4e2-4f3e-befc-9b4f1b9a4b68)
+
+Let's see usage example, 
+a = 3
+b = 5
+c = a + b # c holds 8
+
+![image](https://github.com/user-attachments/assets/45a6a8fb-6df4-4c24-aec7-da135840150b)
+
+![image](https://github.com/user-attachments/assets/cb869c11-47fc-435c-af73-9e2e070ddcd3)
+
 
 
