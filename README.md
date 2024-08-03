@@ -46,5 +46,21 @@ c = a + b # c holds 8
 
 ![image](https://github.com/user-attachments/assets/cb869c11-47fc-435c-af73-9e2e070ddcd3)
 
+### B) Arithmetic shortcuts
+Python created a cool shortcut for self-arithmetic operations.
+
+For example instead of writing:
+
+![image](https://github.com/user-attachments/assets/8ec9232c-0d5e-4994-9ec3-a6e208ae19b4)
+
+We can simplify it by writing +=:
+
+![image](https://github.com/user-attachments/assets/fb36403b-25fb-4296-bc72-165670dc1fee)
+
+The += is adding to a itself the value 3
+
+This operation is valid for all arithmetic operations:
+
+![image](https://github.com/user-attachments/assets/dc9fc9f8-6d95-429b-a41e-4238b75e455b)
 
 
