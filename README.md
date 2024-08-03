@@ -1,7 +1,7 @@
 # Python_Practice
 
 # 1) **Introduction**  
-Python is one of the world's easiest and most popular programming languages. This course will teach you the basics of Python, without requiring prior knowledge..
+Python is one of the world's easiest and most popular programming languages. This course will teach you the basics of Python, without requiring prior knowledge.
    #### Ex) print("Hello Python!")
 ![image](https://github.com/user-attachments/assets/7517714a-2028-494d-abe9-24f0c584c69c)
 
@@ -63,4 +63,16 @@ This operation is valid for all arithmetic operations:
 
 ![image](https://github.com/user-attachments/assets/dc9fc9f8-6d95-429b-a41e-4238b75e455b)
 
+### C) Comparison Operators
+Comparison operators is used to compare between two operands.
+
+Sometimes we need to check whether an operand is bigger/smaller/... than another operand. The following table shows possible operators for comparison:
+
+![image](https://github.com/user-attachments/assets/756fa102-bb3e-4cb7-806d-d242b93af8a8)
+
+The comparison operator returns True if the comparison is correct or False otherwise.
+
+![image](https://github.com/user-attachments/assets/9aec9145-2c8b-4059-bd43-f082d282b934)
+
+var3 will hold True because var1 and var2 are not equal
 
