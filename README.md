@@ -1,7 +1,7 @@
 # Python_Practice
 
 # 1) **Introduction**  
-Python is one of the world's easiest and most popular programming languages. This course will teach you the basics of Python, without requiring prior knowledge.
+Python is one of the world's easiest and most popular programming languages. This course will teach you the basics of Python, without requiring prior knowledge..
    #### Ex) print("Hello Python!")
 ![image](https://github.com/user-attachments/assets/7517714a-2028-494d-abe9-24f0c584c69c)
 
