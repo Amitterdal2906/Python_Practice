@@ -151,6 +151,8 @@ If statements allow us to execute code with conditions.
 
 For example, let's look at the following code:
 
+![image](https://github.com/user-attachments/assets/ff8e99aa-7df9-4af7-b894-5126145a9afe)
+
 
 
 
