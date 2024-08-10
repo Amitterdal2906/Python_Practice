@@ -141,6 +141,7 @@ The truth table for the not operator:
 
 Here the value of a is reversed. If a is False then not a is True
 
+# 4) Decision Making 
 
 
 
