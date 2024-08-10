@@ -147,7 +147,9 @@ Here the value of a is reversed. If a is False then not a is True
 
 
 
+If statements allow us to execute code with conditions.
 
+For example, let's look at the following code:
 
 
 
