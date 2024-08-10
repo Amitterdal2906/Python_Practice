@@ -113,3 +113,45 @@ not (5 bigger than 10 or 5 bigger than 1),
 ![image](https://github.com/user-attachments/assets/178d8920-19f7-4ae8-b82f-d8cd63033fd9)
 
 Explanation: 5 > 10 or 5 > 1 is True (one of the operands is True), so in total b5 is False (not operation).
+
+
+
+### E) Logical Operators Part 2
+
+Logical operators have a special table called "Truth table" that shows what the combination of logical operators returns.
+
+The truth table for the and operator:
+
+![image](https://github.com/user-attachments/assets/000f1b68-85fc-498e-a1f1-c77e0e31ac1c)
+
+
+The only way to get a True for the and operator is if both a and b are True
+
+The truth table for the or operator:
+
+
+![image](https://github.com/user-attachments/assets/cca5c993-5058-4a91-9826-624a302a422a)
+
+
+In this case, to get a True result, either a or b should be True.
+
+The truth table for the not operator:
+
+![image](https://github.com/user-attachments/assets/680b964d-db68-4e52-ac57-a17415af01bf)
+
+Here the value of a is reversed. If a is False then not a is True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
