@@ -168,7 +168,7 @@ To use an if statement we need to add a colon : at the end of the if, and everyt
 If the condition is True, we will enter the code block inside the if (The indented code)
 
 
-### B) If-Else
+### B) If - Else
 
 if allows us to execute particular code if a condition is met, but what if we want to execute something else if the condition is not met?
 
@@ -176,7 +176,9 @@ For that we have the else statement:
 
 ![image](https://github.com/user-attachments/assets/a41d6803-4955-4000-8d13-e8df4d737789)
 
+In the above example, age is smaller than 18 which means it enter the else code and status will hold "Young".
 
+We can even make it more profound using the elif statement:
 
 
 
