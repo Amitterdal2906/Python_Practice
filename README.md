@@ -207,7 +207,11 @@ This will print "His age is: age" instead of "His age is: 10"
 
 to make it work we will use the f string f"":
 
+![image](https://github.com/user-attachments/assets/da98aa75-0a61-4215-aac9-cf4a0ea07db2)
 
+This prints "His age is: 10"
+
+Before the quotation marks "" we add the letter f and inside the string wherever we put parenthesis {} it will insert the value of what is written inside it.
 
 
 
