@@ -180,6 +180,13 @@ In the above example, age is smaller than 18 which means it enter the else code 
 
 We can even make it more profound using the elif statement:
 
+![image](https://github.com/user-attachments/assets/d3f271a3-ad9e-499a-8f85-6f4fa855078c)
+
+Here it checks whether age is smaller than 18, if not it will continue to the next condition and check whether age is between 18 and 65. If that condition is also not met it will set status to "Old".
+
+We can add as many elif statements as we want:
+
+![image](https://github.com/user-attachments/assets/168b9001-5252-4816-9f03-3145d1b0388a)
 
 
 
