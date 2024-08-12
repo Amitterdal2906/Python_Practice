@@ -157,16 +157,11 @@ The above code checks whether the age variable is bigger than 18. If it is, it w
 
 In the end, the code will increment age by 1 whether the age is bigger than 18 or not.
 
- 
-
 To use an if statement we need to add a colon : at the end of the if, and everything that is inside the if is indented with 4 spaces:
-
 
 ![image](https://github.com/user-attachments/assets/1bc5070c-4801-452a-9ea5-ac4c3c9e57d5)
 
-
 If the condition is True, we will enter the code block inside the if (The indented code)
-
 
 ### B) If - Else
 
@@ -176,7 +171,7 @@ For that we have the else statement:
 
 ![image](https://github.com/user-attachments/assets/a41d6803-4955-4000-8d13-e8df4d737789)
 
-In the above example, age is smaller than 18 which means it enter the else code and status will hold "Young".
+In the above example, age is smaller than 18 which means it enters the else code and the status will hold "Young".
 
 We can even make it more profound using the elif statement:
 
