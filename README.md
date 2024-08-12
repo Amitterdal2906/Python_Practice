@@ -145,8 +145,6 @@ Here the value of a is reversed. If a is False then not a is True
 
 ### A) If Statement
 
-
-
 If statements allow us to execute code with conditions.
 
 For example, let's look at the following code:
@@ -183,10 +181,19 @@ We can add as many elif statements as we want:
 
 ![image](https://github.com/user-attachments/assets/168b9001-5252-4816-9f03-3145d1b0388a)
 
+# 5) Basic IO
 
+### A) Output
 
+In Python to print something to the screen we use print()
 
+For example,
 
+![image](https://github.com/user-attachments/assets/d736b3cb-d68a-4ec4-ac01-b4a4c75c79e3)
+
+The above example prints "Hello" to screen.
+
+Recall that you must enclose what you want to print with "" or with '', it is a string inside the print().
 
 
 
